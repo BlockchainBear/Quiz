@@ -8,7 +8,7 @@ const store = {
   // 5 or more questions are required
   questions: [
     {
-      question: 'what year was bitcoin invented?',
+      question: 'which year was bitcoin invented?',
       answers: [
         '200 B.C.',
         '1980',
